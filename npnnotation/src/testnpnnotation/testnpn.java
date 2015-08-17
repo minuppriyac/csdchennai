@@ -1,5 +1,6 @@
-package npnnotation;
+package testnpnnotation;
 
+import npnnotation.Calculation;
 import junit.framework.TestCase;
 
 public class testnpn extends TestCase {
